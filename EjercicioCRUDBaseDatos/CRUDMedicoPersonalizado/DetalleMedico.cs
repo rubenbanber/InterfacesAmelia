@@ -31,7 +31,7 @@ namespace CRUDMedicoPersonalizado
 
             if (mDAO.modificarMedicos(m) != 0)
             {
-                MessageBox.Show("Producto modificado correctamente");
+                MessageBox.Show("Medico modificado correctamente");
             }
             else
             {

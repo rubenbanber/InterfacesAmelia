@@ -82,13 +82,13 @@ namespace CRUDMedicoPersonalizado
             //INSERT
             if (medicoDAO.agregarMedico(m) != 0)
             {
-                MessageBox.Show("Producto agregado correctamente");
+                MessageBox.Show("Medico agregado correctamente");
                 CargarListaMedicos();
                 limpiarDatosMedicos();
             }
             else
             {
-                MessageBox.Show("Error al agregar el producto");
+                MessageBox.Show("Error al agregar el Medico");
             }
         }
 
@@ -175,6 +175,11 @@ namespace CRUDMedicoPersonalizado
                 comboBox1.Text = Convert.ToString(fila.Cells["Especialidad"].Value);
                 textBox3.Text = Convert.ToString(fila.Cells["Direccion"].Value);
             }
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
 
         }
     }
