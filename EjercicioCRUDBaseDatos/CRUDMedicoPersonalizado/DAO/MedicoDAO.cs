@@ -17,6 +17,11 @@ namespace CRUDMedicoPersonalizado.DAO
         {
         }
 
+        /// <summary>
+        /// Inserta un nuevo producto en la BBDD
+        /// </summary>
+        /// <param name="med">Instancia de un medico</param>
+        /// <returns>Un entero para saber si la insert se ha ejecutado</returns>
         public int agregarMedico(Medico med)
         {
             int resul = 0;

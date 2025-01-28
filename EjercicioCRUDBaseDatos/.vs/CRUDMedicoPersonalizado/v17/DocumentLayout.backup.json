@@ -1,12 +1,130 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ruben\\Downloads\\CRUDMedicoPersonalizado\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{253CF006-56AD-445A-A65C-8864A78FAE39}|CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado.csproj|c:\\users\\ruben\\onedrive - educacyl\\escritorio\\ejerciciocrudbasedatos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253CF006-56AD-445A-A65C-8864A78FAE39}|CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado.csproj|C:\\Users\\ruben\\Downloads\\CRUDMedicoPersonalizado\\crudmedicopersonalizado\\detallemedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253CF006-56AD-445A-A65C-8864A78FAE39}|CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado.csproj|solutionrelative:crudmedicopersonalizado\\detallemedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253CF006-56AD-445A-A65C-8864A78FAE39}|CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado.csproj|C:\\Users\\ruben\\Downloads\\CRUDMedicoPersonalizado\\crudmedicopersonalizado\\detallemedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{253CF006-56AD-445A-A65C-8864A78FAE39}|CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado.csproj|solutionrelative:crudmedicopersonalizado\\detallemedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253CF006-56AD-445A-A65C-8864A78FAE39}|CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado.csproj|c:\\users\\ruben\\onedrive - educacyl\\escritorio\\ejerciciocrudbasedatos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253CF006-56AD-445A-A65C-8864A78FAE39}|CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado.csproj|C:\\Users\\ruben\\Downloads\\CRUDMedicoPersonalizado\\crudmedicopersonalizado\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253CF006-56AD-445A-A65C-8864A78FAE39}|CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado.csproj|solutionrelative:crudmedicopersonalizado\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253CF006-56AD-445A-A65C-8864A78FAE39}|CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado.csproj|C:\\Users\\ruben\\Downloads\\CRUDMedicoPersonalizado\\crudmedicopersonalizado\\dao\\medicodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253CF006-56AD-445A-A65C-8864A78FAE39}|CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado.csproj|solutionrelative:crudmedicopersonalizado\\dao\\medicodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253CF006-56AD-445A-A65C-8864A78FAE39}|CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado.csproj|C:\\Users\\ruben\\Downloads\\CRUDMedicoPersonalizado\\crudmedicopersonalizado\\conexion\\conexionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253CF006-56AD-445A-A65C-8864A78FAE39}|CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado.csproj|solutionrelative:crudmedicopersonalizado\\conexion\\conexionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\Downloads\\CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado\\DAO\\MedicoDAO.cs",
+              "RelativeDocumentMoniker": "CRUDMedicoPersonalizado\\DAO\\MedicoDAO.cs",
+              "ToolTip": "C:\\Users\\ruben\\Downloads\\CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado\\DAO\\MedicoDAO.cs",
+              "RelativeToolTip": "CRUDMedicoPersonalizado\\DAO\\MedicoDAO.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwD8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:18:10.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConexionBase.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\Downloads\\CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado\\Conexion\\ConexionBase.cs",
+              "RelativeDocumentMoniker": "CRUDMedicoPersonalizado\\Conexion\\ConexionBase.cs",
+              "ToolTip": "C:\\Users\\ruben\\Downloads\\CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado\\Conexion\\ConexionBase.cs",
+              "RelativeToolTip": "CRUDMedicoPersonalizado\\Conexion\\ConexionBase.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:14:20.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetalleMedico.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\Downloads\\CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado\\DetalleMedico.cs",
+              "RelativeDocumentMoniker": "CRUDMedicoPersonalizado\\DetalleMedico.cs",
+              "ToolTip": "C:\\Users\\ruben\\Downloads\\CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado\\DetalleMedico.cs",
+              "RelativeToolTip": "CRUDMedicoPersonalizado\\DetalleMedico.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwGsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:14:55.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetalleMedico.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ruben\\Downloads\\CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado\\DetalleMedico.cs",
+              "RelativeDocumentMoniker": "CRUDMedicoPersonalizado\\DetalleMedico.cs",
+              "ToolTip": "C:\\Users\\ruben\\Downloads\\CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado\\DetalleMedico.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CRUDMedicoPersonalizado\\DetalleMedico.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:14:11.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive - Educacyl\\Escritorio\\EjercicioCRUDBaseDatos\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\OneDrive - Educacyl\\Escritorio\\EjercicioCRUDBaseDatos\\Form1.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive - Educacyl\\Escritorio\\EjercicioCRUDBaseDatos\\Form1.cs",
+              "RelativeToolTip": "..\\..\\OneDrive - Educacyl\\Escritorio\\EjercicioCRUDBaseDatos\\Form1.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAvwJIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:09:04.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\Downloads\\CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado\\Medico.cs",
+              "RelativeDocumentMoniker": "CRUDMedicoPersonalizado\\Medico.cs",
+              "ToolTip": "C:\\Users\\ruben\\Downloads\\CRUDMedicoPersonalizado\\CRUDMedicoPersonalizado\\Medico.cs",
+              "RelativeToolTip": "CRUDMedicoPersonalizado\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:10:05.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive - Educacyl\\Escritorio\\EjercicioCRUDBaseDatos\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\OneDrive - Educacyl\\Escritorio\\EjercicioCRUDBaseDatos\\Form1.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive - Educacyl\\Escritorio\\EjercicioCRUDBaseDatos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\OneDrive - Educacyl\\Escritorio\\EjercicioCRUDBaseDatos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:08:30.231Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
